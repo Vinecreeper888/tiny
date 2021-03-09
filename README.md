@@ -1,5 +1,5 @@
-[![GitHub forks](https://img.shields.io/badge/npm-v1.0.0-blue)](https://www.npmjs.com/package/@siddhanthmanjunath/tiny)
-[![GitHub forks](https://img.shields.io/badge/minified%20size-entry%20point%20error-red)](https://www.npmjs.com/package/@siddhanthmanjunath/tiny)
+[![GitHub forks](https://img.shields.io/badge/npm-v2.0.0-blue)](https://www.npmjs.com/package/@siddhanthmanjunath/tiny)
+[![GitHub forks](https://img.shields.io/badge/minified%20size-269B-blue)](https://www.npmjs.com/package/@siddhanthmanjunath/tiny)
 
 
 
